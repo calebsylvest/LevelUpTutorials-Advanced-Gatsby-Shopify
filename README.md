@@ -7,7 +7,7 @@
 - [x] Advanced Gatsby and Shopify
 - [x] 1. Getting Started
 - [x] 2. Shopify Setup
-- [ ] 3. Creating Our Context
+- [x] 3. Creating Our Context
 - [ ] 4. Wrapping Our Project Root
 - [ ] 5. Shopify Buy Client
 - [ ] 6. Creating Our Checkout and AddToCart

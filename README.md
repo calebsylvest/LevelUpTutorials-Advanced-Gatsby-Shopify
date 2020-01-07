@@ -12,7 +12,7 @@
 - [x] 5. Shopify Buy Client
 - [x] 6. Creating Our Checkout and AddToCart
 - [x] 7. Initializing Our Checkout
-- [ ] 8. Persistent Cart
+- [x] 8. Persistent Cart
 - [ ] 9. Our Shopping Cart
 - [ ] 10. Animating the Cart
 - [ ] 11. Styling The Cart

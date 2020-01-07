@@ -9,13 +9,13 @@
 - [x] 2. Shopify Setup
 - [x] 3. Creating Our Context
 - [x] 4. Wrapping Our Project Root
-- [ ] 5. Shopify Buy Client
+- [x] 5. Shopify Buy Client
 - [ ] 6. Creating Our Checkout and AddToCart
 - [ ] 7. Initializing Our Checkout
 - [ ] 8. Persistent Cart
 - [ ] 9. Our Shopping Cart
 - [ ] 10. Animating the Cart
-- [ ] 11. Styleing The Cart
+- [ ] 11. Styling The Cart
 - [ ] 12. Removing Line Items
 - [ ] 13. Cart Indicator
 - [ ] 14. Placing An Order

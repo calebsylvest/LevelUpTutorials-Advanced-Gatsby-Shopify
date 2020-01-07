@@ -8,7 +8,7 @@
 - [x] 1. Getting Started
 - [x] 2. Shopify Setup
 - [x] 3. Creating Our Context
-- [ ] 4. Wrapping Our Project Root
+- [x] 4. Wrapping Our Project Root
 - [ ] 5. Shopify Buy Client
 - [ ] 6. Creating Our Checkout and AddToCart
 - [ ] 7. Initializing Our Checkout

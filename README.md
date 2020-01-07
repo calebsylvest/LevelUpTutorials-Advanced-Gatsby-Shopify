@@ -11,7 +11,7 @@
 - [x] 4. Wrapping Our Project Root
 - [x] 5. Shopify Buy Client
 - [x] 6. Creating Our Checkout and AddToCart
-- [ ] 7. Initializing Our Checkout
+- [x] 7. Initializing Our Checkout
 - [ ] 8. Persistent Cart
 - [ ] 9. Our Shopping Cart
 - [ ] 10. Animating the Cart

@@ -13,7 +13,7 @@
 - [x] 6. Creating Our Checkout and AddToCart
 - [x] 7. Initializing Our Checkout
 - [x] 8. Persistent Cart
-- [ ] 9. Our Shopping Cart
+- [x] 9. Our Shopping Cart - 8min
 - [ ] 10. Animating the Cart
 - [ ] 11. Styling The Cart
 - [ ] 12. Removing Line Items

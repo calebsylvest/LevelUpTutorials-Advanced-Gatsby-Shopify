@@ -16,7 +16,7 @@
 - [x] 9. Our Shopping Cart
 - [x] 10. Animating the Cart
 - [x] 11. Styling The Cart
-- [ ] 12. Removing Line Items
+- [x] 12. Removing Line Items
 - [ ] 13. Cart Indicator
 - [ ] 14. Placing An Order
 - [ ] 15. Post Order

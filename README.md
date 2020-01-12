@@ -15,7 +15,7 @@
 - [x] 8. Persistent Cart
 - [x] 9. Our Shopping Cart
 - [x] 10. Animating the Cart
-- [ ] 11. Styling The Cart
+- [x] 11. Styling The Cart
 - [ ] 12. Removing Line Items
 - [ ] 13. Cart Indicator
 - [ ] 14. Placing An Order

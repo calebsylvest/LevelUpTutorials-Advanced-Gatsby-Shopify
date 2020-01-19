@@ -17,15 +17,15 @@
 - [x] 10. Animating the Cart
 - [x] 11. Styling The Cart
 - [x] 12. Removing Line Items
-- [ ] 13. Cart Indicator
-- [ ] 14. Placing An Order
-- [ ] 15. Post Order
-- [ ] 16. Coupons
-- [ ] 17. Removing Coupons
-- [ ] 18. Loading Screens
-- [ ] 19. Collections
-- [ ] 20. Collection Details Page
-- [ ] 21. Making A Marketing Billboard
+- [x] 13. Cart Indicator -13m
+- [ ] 14. Placing An Order - 11m
+- [ ] 15. Post Order - 8m
+- [ ] 16. Coupons - 12m
+- [ ] 17. Removing Coupons - 12m
+- [ ] 18. Loading Screens - 16m
+- [ ] 19. Collections - 17m
+- [ ] 20. Collection Details Page - 18m
+- [ ] 21. Making A Marketing Billboard - 17m
 
 ## 🚀 Quick start
 

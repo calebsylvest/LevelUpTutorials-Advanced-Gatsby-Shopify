@@ -18,7 +18,7 @@
 - [x] 11. Styling The Cart
 - [x] 12. Removing Line Items
 - [x] 13. Cart Indicator -13m
-- [ ] 14. Placing An Order - 11m
+- [x] 14. Placing An Order - 11m
 - [ ] 15. Post Order - 8m
 - [ ] 16. Coupons - 12m
 - [ ] 17. Removing Coupons - 12m

@@ -43,7 +43,15 @@ const Cart = ({style}) => {
         </div>
       ))}
 
-      Total:<h5 className="title">${checkout.totalPrice}</h5>
+      <div>
+        Total:<h5 className="title">${checkout.totalPrice}</h5>
+      </div>
+
+      <div style={{marginTop: "2rem"}}>
+        <a href={checkout.webUrl} className="button is-fullwidth is-success">
+          Checkout Now
+        </a>
+      </div>
       
     </animated.div>
   )
